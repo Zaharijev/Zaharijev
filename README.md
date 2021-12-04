@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zaharijev
 - 👀 I’m currently working on FiveM
-- 🌱 I’m currently learning JS , LUA
+- 🌱 I’m currently learning LUA
 - 📫 How to reach me Zaharijev#8311 , https://discord.gg/smzKWFcpfB
 
 <!---
